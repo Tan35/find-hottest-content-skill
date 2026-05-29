@@ -18,6 +18,14 @@ Use this repository as a Codex skill:
 https://github.com/Tan35/find-hottest-content-skill
 ```
 
+If your tool uses an upload dialog, download and upload the packaged skill file from this repository:
+
+```text
+find-hottest-content.skill
+```
+
+That package keeps `SKILL.md` at the archive root. GitHub's default "Download ZIP" wraps files in a top-level folder, which some skill uploaders do not handle well.
+
 ## Example Prompts
 
 ```text

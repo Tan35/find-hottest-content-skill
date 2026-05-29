@@ -1,6 +1,6 @@
 ---
-name: find-hottest-content
-description: Define and measure the hottest, most popular, trending, or top content on websites and platforms using reproducible public signals. Use when a user asks for the hottest/most popular/trending/top/most-discussed articles, posts, videos, products, projects, papers, or pages on a site for a date, time range, category, or recent period, especially when "hottest" is ambiguous and the agent must choose or explain a ranking method.
+name: "find-hottest-content"
+description: "Define and rank the hottest, most popular, trending, top, or most-discussed content on websites and platforms using reproducible public signals."
 ---
 
 # Find Hottest Content
