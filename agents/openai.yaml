@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Hottest Content"
+  short_description: "Define and rank popular web content"
+  default_prompt: "Use $find-hottest-content to identify the hottest article or post on a website for a given date."
